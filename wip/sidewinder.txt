@@ -1,0 +1,44 @@
+https://www.youtube.com/watch?v=JxIvdFjGOoY
+
+A=0250xx, B=xxx00x
+A  BA      BA
+d--ud-d-d--ud-d-
+
+035000
+d--ud-d-d--ud-du
+
+355433
+d--ud-d-d--ududu
+
+55403x    xx000x    
+d--ududud-dududu
+
+022000   020000
+d--ud-d--u--d-du
+
+A=330000, B=332010
+A  B        A
+d--ud-d--udud-du
+
+A=320003, B=302013
+A     B  A
+d--udud--udud-du
+
+A=000230, B=000450
+A        ABA
+d--udud--udududu
+
+A=022000, B=000000, C=?
+A     B  C
+d--udud--udud-du
+
+A=332010, B=330000
+A     B       
+d--u-ud--ud-d-du
+
+A=320003, B=302013
+A       B  A
+d--ud-d-d--ududu
+
+55403x        xx000x
+d--ud-d--ud-d-du

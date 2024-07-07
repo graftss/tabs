@@ -1,0 +1,75 @@
+adapted from this tutorial
+https://www.youtube.com/watch?v=g8T78pH1yXU
+
+still need to adapt the strum patterns to this performance because it's better
+https://www.youtube.com/watch?v=_P9zR5KaPsc
+
+complicated 
+Dm    - 000231
+F     - 133211
+C     - x32010
+Bbsus - x13311
+Dm9   - x00210
+Dm7   - x00211
+Cadd11- x32011
+
+INTRO (x4)
+Dm              F       C
+d d D dUd d D dUd d D dUd d D dU
+
+VERSE 1 (x2)
+F               Dm       
+d d D dUd d D dUd d D dUd d D dU
+Bbsus           C       
+d d D dUd d D dUd d D dUd d dU 
+
+PRE-CHORUS 1
+Bbsus           Dm       
+d d D dUd d D dUd d D dUd d D dU
+Bbsus           C       
+d d D dUd d D dUD
+
+CHORUS 1
+Dm      Bbsus   F       C       (x3)
+d d D dUd d D dUd d D dUd d dU
+Gm              Bbsus       
+d d D dUd d D dUD
+F                     
+d d D dUd d D dU
+
+VERSE 2 (same as verse 1)
+PRE-CHORUS 2 (same as pre-chorus 1)
+
+CHORUS 2
+Dm      Bbsus   F       C       (x3)
+d d D dUd d D dUd d D dUd d dU
+Gm              Bbsus       
+d d D dUd d D dUD
+
+INSTRUMENTAL
+F               Dm9     Dm7      
+d d D dUd d D dUd d D dUd d D dU
+Bbsus           Cadd11  C       
+d d D dUd d D dUd d D dUd d D dU
+
+VERSE 3
+F               Dm       
+d d D dUd d D dUd d D dUd d D dU
+Bbsus           C       
+d d D dUd d D duD 
+
+PRE-CHORUS 3
+Bbsus           Dm       
+d d D dUd d D dUd d D dUd d D dU
+Bbsus           C       
+d d D dUd d D dUd d D dU
+
+CHORUS 3
+Dm      Bbsus   F       C       (x3)
+d d D dUd d D dUd d D dUd d dU
+Gm              Bbsus       
+d d D dUd d D dUd d D dU- d D dU
+Dm      Bbsus   F       C       (x3)
+d d D dUd d D dUd d D dUd d dU
+Gm              Bbsus       
+d d D dUd d D dUD
