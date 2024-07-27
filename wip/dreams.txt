@@ -9,31 +9,44 @@ G6 355430
 [0:00] intro
 
 m.Mm.mMmm.Mm.mMU
-
 F      G       
-D.mUD.mUD.MudU.u
-D.mUD.mUD.MUdUDu
-
+D.mUD.mUD.MudUMu  D.mUD.mUD.MUdUDu
 
 [0:14] verse
 F      G
 p.Mpp.Mpp.MppUmp
 
-
 [1:04] chorus
 Fm7     G6
 D.mUD.mUdUMUdUM.
+D.mUDUmUD.MUdUMu  D.MUd.MUd.MUdUMu  (thunder only happens when it's raining)
+D.mUDUmUD.MUdUMu  D.MUd.MUd.MUdUMu  (players only love you when they're playing)
+D.Mud.Mud.MudUMu  D.Mud.Mud.MudUMu  (you say women, they will come and they will go)
+D.MuduMuduMuduMu  D.Mud.Mud.MudUDu  (when the rain washes you clean you'll know)
+D.Mud.Mud.MudUDu  D.Mud.Mud.MudUDu
 
-D.mUDUmUD.MUdUMu (thunder only happens when it's raining)
-D.MUd.MUd.MUdUMu
+[1:48] verse 2 
+F      G           
+p.Mpp.Mpp.MppUmp  p.Mpp.Mpp.MppUmp  (now here i go again you see my crystal visions)
+p.Mpp.Mpp.MppUmp  p.Mpp.Mpp.MppUmp  (i keep my vision to myself)
+                  Fm7      G6
+p.Mpp.Mpp.MppUDU  P.PP.P.PmPmD.UMm  (it's only me who wants to wrap around your dreams and)
+p.Mpp.Mpp.MppUmp  p.Mpp.Mpp.MppUmp  (have you any dreams you'd like to sell, dreams of loneliness like a)
+p.Mpp.Mpp.MppUmp  p.Mpp.Mpp.MppUmp  (heartbeat drives you mad and the stillness of remembering what you had)
+p.Mpp.Mpp.MppUmp  p.Mpp.Mpp.MppUmp  (and what you lost, and what you had)
+p.Mpp.Mpp.MppUmU                    (ooh and what you lost)
 
-D.mUDUmUD.MUdUMu (players only love you when they're playing)
-D.MUd.MUd.MUdUMu
+[2:39] chorus 2
+Fm7     G6
+D.mUD.mUdUMUdUM.
+D.mUDUmUD.MUdUMu  D.MUd.MUd.MUdUMu  (thunder only happens when it's raining)
+D.mUDUmUDuMUdUMu  D.MUd.MUd.MUdUMu  (players only love you when they're playing)
+D.Mud.Mud.MudUDu  D.Mud.Mud.MudUDu  (you say women, they will come and they will go)
+D.MuduMuduMududu  D.MUdUMUdUMUdUDu  (when the rain washes you clean you'll know)
+D.MuduMud.MudUDu  D.Mud.Mud.MudUDu  (thunder only happens when it's raining)
+D.mUdUmUduMUDUDu  D.MUd.MUd.MudUDu  (players only love you when they're playing)
+D.Mud.Mud.MudUDu  D.Mud.Mud.MudUDu  (you say women, they will come and they will go)
+D.MuduMUduMUduDu  D.Mud.Mud.MudUDu  (when the rain washes you clean you'll know, you will know)
+D.Mud.Mud.MudUDu  D.Mud.Mud.MudUDu  (you will know, aah you'll know)
 
-D.Mud.Mud.MudUMu (you say women, they will come and they will go)
-D.Mud.Mud.MudUMu
-
-D.MuduMud.MuduMu (when the rain washes you clean you'll know)
-D.Mud.Mud.MudUDu
-
-D.Mud.Mud.MudUDu
+and then just arpeggiate Fm7 up and down
