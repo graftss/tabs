@@ -2,6 +2,15 @@ nobody's home
 
 https://www.youtube.com/watch?v=hCohvF8074k
 
+F#m 244222
+F#m/C# x44222
+E 022100
+D x00232
+A x02220
+Am9 x02200
+E9 024100
+A* 577655
+
 
 [0:00] intro
 
@@ -34,28 +43,56 @@ D |0 --0 ----0 ----|----------0 --0 |----0 ----0 ----|----0 ------x x |
 A |----------------|----------------|----------------|------------x x |
 E |----------------|----------------|----------------|------------x x |
 
-[0:20]
+[0:20] verse 1 (well i couldn't tell you)
+F#m               E                 D                 D
+DxxxDxxUxUDxDxDU  DxxxDxxUxUDxDxDU  DxxxDxDUxUDxDxDU  DUDxDxDUxUDxDxDU
+F#m               E                 D                 D
+DxxxDxDUxUDxDxDU  DxxxDxxUxUDxDUDU  DxxxDxDUxUDxDxDU  DUDxDxDUDUDxDUDU
 
-F#m
-DxxxDxxUxUDxDxDU
+[0:44] pre-chorus 1 (what's wrong what's wrong now)
+F#m               E                 D                 D
+DxDxDxDUDUDxDUDU  DxDxDxDUxUDxDUDU  DxDxDxDUDUDxDxDU  DUDxDxxUDUDxMxxx
 
+[0:56] chorus 1 (she wants to go home)
+F#m               A       Am9 A Am9 E                 E9 
+DxxxDxDUxUDxDxDU  DxxxDxDUDUDxDxDU  DxxxDxDUDUDxDxDU  DxDxDxDUDUDxDUDU
+F#m               A       Am9 A Am9 E                 E9          (mute chord)
+DxDxDxDUDUDxDxDU  DxxxDxDUDUDxDxDU  DxxxDxDUxUDxDxDU  DxDxDxDUDUDxDxxx
+         
+[1:20] verse 2 (open your eyes)
+F#m               E                 D                 D
+DxxxDxxUxUDxDxDU  DxxxDxxUxUDxDxDU  DxxxDxDUDUDxDxDU  DUDxDxDUDUDxDUDU
+F#m               E                 D                 D
+DxxxDxDUDUDxDxDU  DxxxDxxUxUDxDUDU  DxxxDxxUDUDxDxDU  DUDxDxDUDUDxDUDU
+
+[1:44] pre-chorus 2 (be strong be strong now)
+F#m               E                 D                 D
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DUDxDxDUDUDxDUDU
+
+[1:55] chorus 2 (she wants to go home)
+F#m               A       Am9 A Am9 E                 E9 
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDUDU
+F#m               A       Am9 A Am9 E                 E9          
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU
 E
-DxxxDxxUxUDxDxDU
+DuDxdUdxdUdUDuDU
 
+[2:22] bridge (and her feeling she hides)
+F#m               E                 D                 D
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU  DUDxDxDUDUDxDUDU
+F#m               E                 D                 D
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DUDxDxDUDUDxDxDU
 D
-DxxxDxDUxUDxDxDU
-DUDxDxDUxUDxDxDU
+DUDxDxDUDUDxDxDU  DUDxDxdUdUDuDudu
 
-[0:44] (what's wrong what's wrong now)
+[2:52] chorus 3 (she wants to go home)
+F#m               A       Am9 A Am9 E                 E9 
+DxxxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU  DUDxDxDUDUDxDUDU
+F#m               A       Am9 A Am9 E                 E9          
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DxDxDxDUDUDxDxDU  DxDxDxdUdUDuDuDu
 
-F#m
-DxDxDxDUDUDxDUDU
-
-E
-DxDxDxDUxUDxDUDU
-
-D
-DxDxDxDUDUDxDxDU
-DUDxDxxUDUDxMxxx
-
-[0:56]
+[3:15] outro (she's lost inside)
+F#m               A                 E                   E9 
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDxDU  DUDxDxDUDUDUDUxB
+F#m               A*                E                 E                F#m/C#
+DxDxDxDUDUDxDUDU  DxDxDxDUDUDxDUDU  DxDxDxDUxUDxDxDU  DUDxDxDUDUDUDUDU D

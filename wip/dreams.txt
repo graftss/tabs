@@ -1,5 +1,10 @@
 https://www.youtube.com/watch?v=8MFHw4RiYrY
 
+F 133211
+G 355433
+Fm7 133210
+G6 355430
+
 
 [0:00] intro
 
@@ -16,7 +21,7 @@ p.Mpp.Mpp.MppUmp
 
 
 [1:04] chorus
-
+Fm7     G6
 D.mUD.mUdUMUdUM.
 
 D.mUDUmUD.MUdUMu (thunder only happens when it's raining)
@@ -31,4 +36,4 @@ D.Mud.Mud.MudUMu
 D.MuduMud.MuduMu (when the rain washes you clean you'll know)
 D.Mud.Mud.MudUDu
 
-D.MUD.MUD.MudUDu
+D.Mud.Mud.MudUDu
